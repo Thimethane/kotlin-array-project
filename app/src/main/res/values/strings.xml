@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlin-array-project</string>
+    <string name="arrays_will_appear_here_when_you_run_the_app">Arrays will appear here when you run the app.</string>
+</resources>

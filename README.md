@@ -178,7 +178,7 @@ val mutableMap = mutableMapOf("user" to "Alex") // Mutable
 
 ## Author
 
-**RINGUYENEZA Thimothe**  
+**Timothee RINGUYENEZA**  
 Kotlin & Android Development Student  
 GitHub Repository: [https://github.com/Thimethane/kotlin-array-project](https://github.com/Thimethane/kotlin-array-project)
 ```
